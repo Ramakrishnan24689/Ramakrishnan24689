@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📩 Latest Blog Posts // You can name it whatever you want.
+### 📩 Latest LinkedIn Articles 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
