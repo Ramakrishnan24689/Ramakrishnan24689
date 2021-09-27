@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
 ### 📩 Latest LinkedIn Articles 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+---
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=Ramakrishnan24689&show_icons=true&hide_border=true"/>
+
+
