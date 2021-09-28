@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: LinkedIn Articles Update Workflow
 on:
     schedule: # Run workflow automatically
       # This will make it run every hour
