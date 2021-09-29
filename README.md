@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My name is Ramakrishnan Raman. I live in 🇮🇳
+My name is Ramakrishnan Raman. I work as a consultant at Microsoft. My areas of expertise are M365, D365 & Azure..
 <!--
 **Ramakrishnan24689/Ramakrishnan24689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
