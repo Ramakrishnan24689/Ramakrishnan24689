@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - [PowerApps Component Framework and Microsoft Graph Toolkit better together using MSAL 🛠](https://www.linkedin.com/pulse/powerapps-component-framework-microsoft-graph-toolkit-raman)
 - [Use Power Virtual Agents in PowerApps via PCF 🛠](https://www.linkedin.com/pulse/powerapps-component-framework-microsoft-graph-toolkit-raman)
-- [Create PowerApps component framework for Model-Driven apps using Office UI Fabric React 🛠](https://www.linkedin.com/pulse/powerapps-component-framework-microsoft-graph-toolkit-raman)
+- [Create PowerApps component framework for Model-Driven apps using Office UI Fabric React 🚀](https://www.linkedin.com/pulse/powerapps-component-framework-microsoft-graph-toolkit-raman)
 ---
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Ramakrishnan24689&show_icons=true&hide_border=true"/>
 
