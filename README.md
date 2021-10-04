@@ -1,6 +1,6 @@
-### Hi there 👋 
+### Hi there 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ramakrishnan24689&label=Profile%20views&color=0e75b6&style=flat" alt="ramakrishnan24689" /> </p>
 
-My name is Ramakrishnan Raman. I work as a consultant at Microsoft. My areas of expertise are M365, D365 & Azure..
+I am Ramakrishnan Raman. I work as a consultant at Microsoft. My areas of expertise are M365, D365 & Azure..
 
 - 🔭 I’m currently working on Power Platform
 - 🌱 I’m currently learning Mixed Reality
@@ -34,14 +34,9 @@ Here are some ideas to get you started:
 ---
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Ramakrishnan24689&show_icons=true&hide_border=true"/>
 
----
+
 
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramakrishnan24689&theme=tokyonight&show_icons=true&hide_border=true"/>
-
----
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramakrishnan24689&label=Profile%20views&color=0e75b6&style=flat" alt="ramakrishnan24689" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramakrishnan24689" alt="ramakrishnan24689" /></a> </p>
 
