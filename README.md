@@ -33,5 +33,18 @@ Here are some ideas to get you started:
 - [Create PowerApps component framework for Model-Driven apps using Office UI Fabric React 🛠](https://www.linkedin.com/pulse/powerapps-component-framework-microsoft-graph-toolkit-raman)
 ---
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Ramakrishnan24689&show_icons=true&hide_border=true"/>
-<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramakrishnan24689&theme=tokyonight&show_icons=true&hide_border=true"/>
 
+---
+
+<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramakrishnan24689&theme=tokyonight&show_icons=true&hide_border=true"/>
+
+---
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramakrishnan24689&label=Profile%20views&color=0e75b6&style=flat" alt="ramakrishnan24689" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramakrishnan24689" alt="ramakrishnan24689" /></a> </p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
