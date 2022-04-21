@@ -1,6 +1,6 @@
 ### Hi there 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ramakrishnan24689&label=Profile%20views&color=0e75b6&style=flat" alt="ramakrishnan24689" /> </p>
 
-I am Ramakrishnan Raman. I work as a consultant at Microsoft. My areas of expertise are M365, D365 & Azure..
+I am Ramakrishnan Raman. I work as a software engineer at Microsoft. My areas of expertise are M365, D365 & Azure..
 
 - 🔭 I’m currently working on Power Platform
 - 🌱 I’m currently learning Mixed Reality
