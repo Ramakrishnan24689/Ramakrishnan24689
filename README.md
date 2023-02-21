@@ -7,7 +7,7 @@ I am Ramakrishnan Raman. I work as a software engineer at Microsoft. My areas of
 - 👯 I’m looking to collaborate on anything related to M365 Technologies
 - 💬 Ask me about M365, D365 or Azure
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/feed/ramakrishnan-raman-49312724/)
-- ⚡ Fun fact: I like playing football ⚽
+
 <!--
 **Ramakrishnan24689/Ramakrishnan24689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
