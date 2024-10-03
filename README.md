@@ -1,12 +1,12 @@
-### Hi there 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ramakrishnan24689&label=Profile%20views&color=0e75b6&style=flat" alt="ramakrishnan24689" /> </p>
+# Hi there, I'm Ramakrishnan Raman 👋
 
-I am Ramakrishnan Raman. I work as a software engineer at Microsoft. My areas of expertise are M365, D365 & Azure..
+I'm a Software Engineer at **Microsoft**, with a passion for **M365**, **D365**, and **Azure**. Recently, I’ve been diving into the transformative power of **AI** across Microsoft's platforms and integrating the latest advancements into my work.
 
-- 🔭 I’m currently working on Power Platform
-- 🌱 I’m currently learning Metaverse and Microsoft Viva
-- 👯 I’m looking to collaborate on anything related to M365 Technologies
-- 💬 Ask me about M365, D365 or Azure
-- 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/feed/ramakrishnan-raman-49312724/)
+- 🔭 I’m currently working on **Power Platform** and exploring **Copilot** integration for more intelligent collaboration.
+- 🌱 I’m learning about the **Metaverse**, **Microsoft Viva**, and the latest in **Generative AI** technologies from **Build 2024**, like **AI Agents** and **Phi-3 Vision**.
+- 👯 I’m looking to collaborate on **AI-powered apps** in **M365** technologies, focusing on enhancing productivity through AI solutions.
+- 💬 Ask me about **M365**, **D365**, **Azure**, or how **Copilot** and AI tools can transform your workflows.
+- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ramakrishnan-raman-49312724/).
 
 <!--
 **Ramakrishnan24689/Ramakrishnan24689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
