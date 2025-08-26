@@ -1,38 +1,45 @@
 # Hi there, I'm Ramakrishnan Raman 👋
 
-I'm a Software Engineer at **Microsoft**, with a passion for **M365**, **D365**, and **Azure**. Recently, I’ve been diving into the transformative power of **AI** across Microsoft's platforms and integrating the latest advancements into my work.
-
-- 🔭 I’m currently working on **Power Platform** and exploring **Copilot** integration for more intelligent collaboration.
-- 🌱 I’m learning about the **Metaverse**, **Microsoft Viva**, and the latest in **Generative AI** technologies from **Build 2024**, like **AI Agents** and **Phi-3 Vision**.
-- 👯 I’m looking to collaborate on **AI-powered apps** in **M365** technologies, focusing on enhancing productivity through AI solutions.
-- 💬 Ask me about **M365**, **D365**, **Azure**, or how **Copilot** and AI tools can transform your workflows.
-- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ramakrishnan-raman-49312724/).
-
-<!--
-**Ramakrishnan24689/Ramakrishnan24689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Senior Software Engineer at **Microsoft**, building intelligent solutions with **Power Platform, Copilot Studio, and AI Agents**.  
+🎓 Currently pursuing a **Master’s in Artificial Intelligence** at the **University of Texas at Austin**.  
+🚀 Passionate about integrating **AI-first experiences** into enterprise apps across **M365, D365, and Azure**.  
 
 ---
-### 📩 Latest LinkedIn Articles 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-- [PowerApps Component Framework and Microsoft Graph Toolkit better together using MSAL 🛠](https://www.linkedin.com/pulse/powerapps-component-framework-microsoft-graph-toolkit-raman)
-- [Use Power Virtual Agents in PowerApps via PCF 🛠](https://www.linkedin.com/pulse/powerapps-component-framework-microsoft-graph-toolkit-raman)
-- [Create PowerApps component framework for Model-Driven apps using Office UI Fabric React 🚀](https://www.linkedin.com/pulse/powerapps-component-framework-microsoft-graph-toolkit-raman)
+## 🔎 What I’m working on
+- ✨ **Copilot Studio Agents** – Designing review patterns, Code Interpreter–style analysis, and best practices.  
+- 📄 **AI Solution Documentation** – Automating Power Platform design docs using Generative AI.  
+- 🛠️ **Power Platform Toolkits** – Creator Kit, Approvals Kit, and modern Fluent UI–based controls.  
+- 🤝 Driving **AI-powered enterprise workflows** that bring together M365 and Power Platform.  
+
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramakrishnan24689" alt="ramakrishnan24689" /></a> </p>
+## 🌱 What excites me
+- **Generative AI in enterprise apps** – shaping the future of Copilot and intelligent collaboration.  
+- **PowerApps & PCF development** – creating reusable components with React + Fluent UI.  
+- **Agent workflows** – making development plans executable with AI assistance.  
 
+---
 
+## 🖋 Writing & Sharing
+I occasionally share insights around **Power Platform, Copilot Studio, and AI** through:  
+- [PowerChatbot using Open API](https://www.linkedin.com/pulse/powerchatbot-using-open-api-ramakrishnan-raman/)  
+- [PowerApps Component Framework + Graph Toolkit](https://www.linkedin.com/pulse/powerapps-component-framework-microsoft-graph-toolkit-raman/)  
+- [Use Power Virtual Agents in PowerApps via PCF](https://www.linkedin.com/pulse/use-power-virtual-agents-powerapps-via-pcf-ramakrishnan-raman/)  
+
+---
+
+## 🔖 Projects & Contributions
+- 🌟 **Open Source** contributor to [PnP](https://github.com/pnp), [PCF Gallery Contributions](https://pcf.gallery/authors/ramakrishnan_raman), and Power Platform samples.  
+- 🏆 Multiple recognitions at Microsoft including **Global Hackathon wins (2020, 2021)** and **“Making a Difference” awards**.  
+- 📦 Publisher of [VS Code extensions & PCF components](https://marketplace.visualstudio.com/publishers/RamakrishnanR).  
+
+---
+
+## 📫 Let’s connect
+<p align="left">
+  <a href="https://x.com/ramakrishnan2"><img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ramakrishnan-raman-49312724/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://marketplace.visualstudio.com/publishers/RamakrishnanR"><img src="https://img.shields.io/badge/VS%20Code_Extensions-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Ramakrishnan24689"><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
