@@ -21,18 +21,9 @@
 
 ---
 
-## 🖋 Writing & Sharing
-I occasionally share insights around **Power Platform, Copilot Studio, and AI** through:  
-- [PowerChatbot using Open API](https://www.linkedin.com/pulse/powerchatbot-using-open-api-ramakrishnan-raman/)  
-- [PowerApps Component Framework + Graph Toolkit](https://www.linkedin.com/pulse/powerapps-component-framework-microsoft-graph-toolkit-raman/)  
-- [Use Power Virtual Agents in PowerApps via PCF](https://www.linkedin.com/pulse/use-power-virtual-agents-powerapps-via-pcf-ramakrishnan-raman/)  
-
----
-
-## 🔖 Projects & Contributions
-- 🌟 **Open Source** contributor to [PnP](https://github.com/pnp), [PCF Gallery Contributions](https://pcf.gallery/authors/ramakrishnan_raman), and Power Platform samples.  
-- 🏆 Multiple recognitions at Microsoft including **Global Hackathon wins (2020, 2021)** and **“Making a Difference” awards**.  
-- 📦 Publisher of [VS Code extensions & PCF components](https://marketplace.visualstudio.com/publishers/RamakrishnanR).  
+## 🔗 Featured
+👉 Check out my walkthrough on turning **Figma wireframes into Code Apps** here:  
+[aka.ms/figmatocodeapps](https://aka.ms/figmatocodeapps)  
 
 ---
 
